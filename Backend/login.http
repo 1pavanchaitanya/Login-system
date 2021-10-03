@@ -1,0 +1,22 @@
+
+POST http://localhost:3030/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "pavansa",
+    "name": "chaitu",
+    "gender": "male",
+    "password": "pavans@123",
+    "location": "india"
+}
+
+###
+POST http://localhost:3030/login HTTP/1.1
+Content-Type: application/json
+
+{ 
+    "username": "pavansa",
+    "password": "pavans@123"
+}
+
+
