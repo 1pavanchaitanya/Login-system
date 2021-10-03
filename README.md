@@ -2,7 +2,7 @@
 
 1.Make sure you have these installed \
 2.node.js \
-3.git \
+3.git 
 ### setting Up project 
 1.Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) 
  > git clone CLONEURL
